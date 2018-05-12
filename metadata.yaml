@@ -1,0 +1,29 @@
+_repo: English-Grammar-in-Familiar-Lectures--13-Accompanied-by-a-compendium-embracing-a-new-systemat__14070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kirkham, Samuel
+    gutenberg_agent_id: '5356'
+    url: http://www.gutenberg.org/2009/agents/5356
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: "English Grammar in Familiar Lectures\r\nAccompanied by a compendium, embracing\
+  \ a new systematic order of parsing, a new system of punctuation, exercises in false\
+  \ syntax, and a system of philosophical grammar, in notes, to which are added an\
+  \ appendix and a key to the exercises : designed for the use of schools and private\
+  \ learners"
+url: http://www.gutenberg.org/ebooks/14070
